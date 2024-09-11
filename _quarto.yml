@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Hello World DSCI 521"
+  title: "WM Wong's Sites"
   navbar:
     left:
       - href: index.qmd
